@@ -409,5 +409,8 @@ if __name__ == '__main__':
         # Do all of it
         res = mansnip(section, page, '', env)
     
-    print(res)
+    try:
+        print(res)
+    except BrokenPipeError:
+        sys.exit(0)
 
