@@ -1,10 +1,5 @@
 ## Updates
-* **2026-01-19**: On PyPi `kristopolous-mansnip` has been renamed to just `mansnip`.
-* **2026-01-18**: `--llm` has been added for easier invocation of the smaller token version
-
-## Updates for the AI era!
-
-You can now intelligently mansnip into your context window by setting an environment variable like this:
+Intelligently mansnip into your context window by setting an environment variable like this:
 
 ```bash
 $ MANSNIP_LLM=1 mansnip ...
