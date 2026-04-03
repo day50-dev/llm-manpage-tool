@@ -1,12 +1,7 @@
-## Updates
-Intelligently mansnip into your context window by setting an environment variable like this:
+Intelligently put parts of manpages into your context window:
 
 ```bash
-$ MANSNIP_LLM=1 mansnip ...
-
-~or~
-
-$ mansnip --llm ...
+$ mansnip --llm bash read
 ```
 
 This will do a variety of things (try it yourself) that optimize for minimal token-length when using an llm. 
