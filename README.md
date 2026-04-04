@@ -29,9 +29,11 @@ Just `pip install mansnip`
 <p align="center">
 
 
-https://github.com/user-attachments/assets/09333fe8-af58-4655-a759-0dd2443a867f
 
-"As seen on YouTube!"
+https://github.com/user-attachments/assets/1fb76ac3-54e7-48dd-b349-4c7fa89016c6
+
+
+["As seen on YouTube!"](https://www.youtube.com/watch?v=3GT1J-ejM3Q)
 </p>
 
 ----
