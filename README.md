@@ -27,10 +27,11 @@ Just `pip install mansnip`
 ## My classic 2020 pitch below!
 
 <p align="center">
-  
-[![Video](https://9ol.es/vid.jpg)](http://www.youtube.com/watch?v=3GT1J-ejM3Q)
 
-> "As seen on YouTube!" (click image, it's only 1min 45sec)
+
+https://github.com/user-attachments/assets/09333fe8-af58-4655-a759-0dd2443a867f
+
+"As seen on YouTube!"
 </p>
 
 ----
