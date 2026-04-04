@@ -4,7 +4,7 @@ Intelligently put parts of manpages into your context window:
 $ uvx mansnip --llm bash bind
 ```
 
-And your terminal window
+And your terminal window:
 
 ```bash
 $ uvx mansnip bash bind
