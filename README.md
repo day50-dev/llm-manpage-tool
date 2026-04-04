@@ -4,7 +4,11 @@ Intelligently put parts of manpages into your context window:
 $ uvx mansnip --llm bash bind
 ```
 
-This will do a variety of things (try it yourself) that optimize for minimal token-length when using an llm. 
+And your terminal window
+
+```bash
+$ uvx mansnip bash bind
+```
 
 Compare various approaches for finding the documentation for bash's complete command: 
 
@@ -15,14 +19,14 @@ $ man bash | grep -C 3 complete | token-count       # naive approach with a bunc
 8833
 $ mansnip bash complete | token-count               # mansnip without llm feature
 2908
-$ MANSNIP_LLM=1 mansnip bash complete | token-count # with new llm compaction!
+$ mansnip --llm bash complete | token-count         # with llm compaction!
 1624
 ```
 That's a 98% reduction! Sweet.
 
 There's also a ready-to-go MCP server for it in `mcp-server.py`. 
 
-Just `pip install mansnip`
+Just `pip/pipx/uv tool install mansnip`
 
 ## My classic 2020 pitch below!
 
