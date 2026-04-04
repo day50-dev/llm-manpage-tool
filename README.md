@@ -1,4 +1,6 @@
-Intelligently put parts of manpages into your context window:
+**Mansnip**, part of the [DAY50](https://day50.dev) suite of open-source tools for AI workflows, solves the problem of irrelevant documentation going to the context window.
+
+You can intelligently put only the parts of manpages you care about into your context window:
 
 ```bash
 $ uvx mansnip --llm bash bind
