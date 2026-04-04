@@ -10,7 +10,7 @@ And your terminal window:
 $ uvx mansnip bash bind
 ```
 
-Compare various approaches for finding the documentation for bash's complete command: 
+Compare the token cost of various approaches for finding the documentation for bash's complete command: 
 
 ```bash
 $ man bash | token-count                            # whole page
