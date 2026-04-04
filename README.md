@@ -1,7 +1,7 @@
 Intelligently put parts of manpages into your context window:
 
 ```bash
-$ mansnip --llm bash read
+$ uvx mansnip --llm bash read
 ```
 
 This will do a variety of things (try it yourself) that optimize for minimal token-length when using an llm. 
