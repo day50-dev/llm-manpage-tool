@@ -2,7 +2,7 @@ When LLMs use the Internet instead of the local documentation on the computer it
 
 context7 fixes this only for things in context7. What about everything else? 
 
-Get your models to use the right documentation, locally, for the software your actually have, effeciently.
+Get your models to use the right documentation, locally, for the software you actually have, effeciently.
 
 **Mansnip**, part of the [DAY50](https://day50.dev) suite of open-source tools for AI workflows, solves the problem of irrelevant documentation going to the context window.
 
