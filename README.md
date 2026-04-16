@@ -1,3 +1,7 @@
+When LLMs search the Internet instead of the documentation on the computer they make all kinds of mistakes: compatibility and deprecated usage, missing obvious things. 
+
+Get your models to use the right documentation, locally, for the software your actually have, effeciently.
+
 **Mansnip**, part of the [DAY50](https://day50.dev) suite of open-source tools for AI workflows, solves the problem of irrelevant documentation going to the context window.
 
 You can intelligently put only the parts of manpages you care about into your context window:
