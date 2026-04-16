@@ -1,4 +1,6 @@
-When LLMs search the Internet instead of the documentation on the computer they make all kinds of mistakes: compatibility and deprecated usage, missing obvious things. 
+When LLMs use the Internet instead of the local documentation on the computer its running on, they make all kinds of mistakes: compatibility and deprecated usage, missing obvious things. 
+
+context7 fixes this only for things in context7. What about everything else? 
 
 Get your models to use the right documentation, locally, for the software your actually have, effeciently.
 
