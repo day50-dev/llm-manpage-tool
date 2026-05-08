@@ -1,3 +1,9 @@
+<p align="center">
+<img width="750" alt="logo_750" src="https://github.com/user-attachments/assets/ad687a4d-8abe-4c60-bf89-6a24a04f447c" />
+<br/>
+<a href=https://pypi.org/project/mansnip><img src=https://badge.fury.io/py/mansnip.svg/></a>  
+</p>
+
 When LLMs use the Internet instead of the local documentation on the computer its running on, they make all kinds of mistakes: compatibility and deprecated usage, missing obvious things. 
 
 context7 fixes this only for things in context7. What about everything else? 
